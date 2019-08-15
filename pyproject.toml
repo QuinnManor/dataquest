@@ -2,7 +2,7 @@
 name = "dataquest"
 version = "0.1.0"
 description = ""
-authors = ["Matthew Quinn <matthew.i.quinn@accenture.com>"]
+authors = ["QuinnManor <matthewq1428@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
